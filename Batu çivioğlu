@@ -12,8 +12,8 @@ mydb = mysql.connector.connect(
 mycursor = mydb.cursor()
 
 
-adi = input("Adı: ")
-soyadi = input("Soyadı: ")
+adi = input("Adı:batu ")
+soyadi = input("Soyadı: çivioğlu")
 il = input("İl (Boş bırakabilirsiniz): ")
 nufusil = input("NufusIl (Boş bırakabilirsiniz): ")
 
